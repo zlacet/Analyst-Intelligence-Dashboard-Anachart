@@ -58,7 +58,7 @@ Same broker as above, switched to GOOGL. The prediction jumps roughly 8.4 points
 **GOOGL, Broker 20574, Predicted upside: +19.3%**
 A more selective broker (49% Buy rate across 970 ratings) on the same ticker, GOOGL. The prediction lands lower than broker 29901's GOOGL prediction, consistent with 20574's more conservative rating history.
 
-![AAPL, Broker 20574](screenshots/APPL20575.png)
+![AAPL, Broker 20574](screenshots/APPL20574.png)
 
 **AAPL, Broker 20574, Predicted upside: +5.9%**
 The same conservative broker as above, moved back to AAPL. This produces the lowest prediction of the four, showing that broker and ticker effects are compounding, not acting independently.
